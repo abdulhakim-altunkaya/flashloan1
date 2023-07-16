@@ -9,7 +9,7 @@ const pairABI = [
 ];
 
 const routerABI = [
-    "function getAmountsOut(uint amountIn, address[] memory path) public view virtul override returns (uint[] memory amounts)",
+    "function getAmountsOut(uint amountIn, address[] memory path) public view returns (uint[] memory amounts)",
 ]
 
 module.exports = {
