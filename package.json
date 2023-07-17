@@ -6,5 +6,9 @@
     "ethereum-waffle": "^3.4.4",
     "ethers": "^5.6.5",
     "hardhat": "^2.9.3"
+  },
+  "dependencies": {
+    "@uniswap/sdk-core": "^4.0.3",
+    "@uniswap/v3-sdk": "^3.10.0"
   }
 }
